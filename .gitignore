@@ -42,6 +42,7 @@ $RECYCLE.BIN/
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
+angular2-app/node_modules
 Network Trash Folder
 Temporary Items
 .apdisk
